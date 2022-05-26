@@ -1,0 +1,657 @@
+[
+	{
+		"id": "0APfuzFIHEhioUk9PVA",
+		"kind": "drive#drive",
+		"name": "@TheCourseCollector Telegram"
+	},
+	{
+		"id": "0AGUpuZDyIPhIUk9PVA",
+		"kind": "drive#drive",
+		"name": "#Bot2 Full [Ma-Aug-21]"
+	},
+	{
+		"id": "0AD9mdhGkpoNWUk9PVA",
+		"kind": "drive#drive",
+		"name": "#Bot2 Full [March-21]"
+	},
+	{
+		"id": "0ACDq2JPuyZCjUk9PVA",
+		"kind": "drive#drive",
+		"name": "#Bot3 Full [April-21]"
+	},
+	{
+		"id": "0AF2nnO5nNJWlUk9PVA",
+		"kind": "drive#drive",
+		"name": "☠️ The Courses Collector ☠️"
+	},
+	{
+		"id": "0ALqPPh6jyXKgUk9PVA",
+		"kind": "drive#drive",
+		"name": "A1movies.Com.PK Cloud Drive"
+	},
+	{
+		"id": "0ACNzKJhARHP8Uk9PVA",
+		"kind": "drive#drive",
+		"name": "ABHI_MIRROR-2022-new"
+	},
+	{
+		"id": "0AA9bit7ghafWUk9PVA",
+		"kind": "drive#drive",
+		"name": "Aryan Vikash Group files V2"
+	},
+	{
+		"id": "0AGoaWpL6UMWkUk9PVA",
+		"kind": "drive#drive",
+		"name": "AT_BOT"
+	},
+	{
+		"id": "0AEicx6uV5mjvUk9PVA",
+		"kind": "drive#drive",
+		"name": "atulrajput625"
+	},
+	{
+		"id": "0AOeCdnmTQDiGUk9PVA",
+		"kind": "drive#drive",
+		"name": "axel"
+	},
+	{
+		"id": "0AJMaokl_KpU3Uk9PVA",
+		"kind": "drive#drive",
+		"name": "Bang New"
+	},
+	{
+		"id": "0ACoRm4qL2OGFUk9PVA",
+		"kind": "drive#drive",
+		"name": "bekarr"
+	},
+	{
+		"id": "0AOsusH7PRqQzUk9PVA",
+		"kind": "drive#drive",
+		"name": "BlackBolt Cloud 0.3"
+	},
+	{
+		"id": "0AH5_2T5F9XGHUk9PVA",
+		"kind": "drive#drive",
+		"name": "BMirror"
+	},
+	{
+		"id": "0AAEO26b7WVacUk9PVA",
+		"kind": "drive#drive",
+		"name": "BNC.GautamS.OLD"
+	},
+	{
+		"id": "0AOiJgpiCkdhXUk9PVA",
+		"kind": "drive#drive",
+		"name": "BNC.HeavenS.Anime.Zone"
+	},
+	{
+		"id": "0ADb3YynuXyGgUk9PVA",
+		"kind": "drive#drive",
+		"name": "Bot.Gautams.Mirror_1.1"
+	},
+	{
+		"id": "0AEmWqmSGKjjTUk9PVA",
+		"kind": "drive#drive",
+		"name": "Bot.Gautams.Mirror_2.1"
+	},
+	{
+		"id": "0AFDqefuM7BE9Uk9PVA",
+		"kind": "drive#drive",
+		"name": "Bot.Gautams.Mirror_3.1"
+	},
+	{
+		"id": "0AG3juLhJvw-QUk9PVA",
+		"kind": "drive#drive",
+		"name": "Bot.Gautams.Mirror_4.1"
+	},
+	{
+		"id": "0AOo3TwxcrvWQUk9PVA",
+		"kind": "drive#drive",
+		"name": "Bot.Heavens.Anime.Zone.1.1"
+	},
+	{
+		"id": "0AFOWrcG9TP8NUk9PVA",
+		"kind": "drive#drive",
+		"name": "BOT1 - MAR - WarLock - TMD"
+	},
+	{
+		"id": "0AFyp3BlEHKJwUk9PVA",
+		"kind": "drive#drive",
+		"name": "BOT2 - AUG - WarLock - TMD"
+	},
+	{
+		"id": "0APPxoGY9Djw1Uk9PVA",
+		"kind": "drive#drive",
+		"name": "BOT3 - APRIL - WarLock - TMD"
+	},
+	{
+		"id": "0ABHDUSeT_AvIUk9PVA",
+		"kind": "drive#drive",
+		"name": "Codex Cloudx"
+	},
+	{
+		"id": "0APu7NYMPxpU_Uk9PVA",
+		"kind": "drive#drive",
+		"name": "CoursesGhar.Com Cloud"
+	},
+	{
+		"id": "0AIMdfaQN7Lk1Uk9PVA",
+		"kind": "drive#drive",
+		"name": "DEAD (JOIN HEVY STUDY GROUP ✅)"
+	},
+	{
+		"id": "0AAKz5Ms1VrqsUk9PVA",
+		"kind": "drive#drive",
+		"name": "ᴅʀᴀɢᴏɴ ᴍɪʀʀᴏʀ ᴢᴏɴᴇ"
+	},
+	{
+		"id": "0AGLlwm48MOquUk9PVA",
+		"kind": "drive#drive",
+		"name": "Exclusively Fucked1"
+	},
+	{
+		"id": "0AF9TjS73RJmIUk9PVA",
+		"kind": "drive#drive",
+		"name": "FC_GDRIVE"
+	},
+	{
+		"id": "0AMRhFkirlLgtUk9PVA",
+		"kind": "drive#drive",
+		"name": "Gameofcourses.com"
+	},
+	{
+		"id": "0AEZDexJlwqa_Uk9PVA",
+		"kind": "drive#drive",
+		"name": "Gunaya Drive 2"
+	},
+	{
+		"id": "0APFD_dDdfOYpUk9PVA",
+		"kind": "drive#drive",
+		"name": "Gunaya Drive 4"
+	},
+	{
+		"id": "0AGMgiJmLVyRcUk9PVA",
+		"kind": "drive#drive",
+		"name": "Hash Hackers Temp Torrent Group (Regularly Removed Data)"
+	},
+	{
+		"id": "0AP8jzTXfZKkNUk9PVA",
+		"kind": "drive#drive",
+		"name": "HEVY-V-2-ALL-CSE-MATERIAL"
+	},
+	{
+		"id": "0ACaeU1vyXwFAUk9PVA",
+		"kind": "drive#drive",
+		"name": "HK TORRENT BOT 2021 (New TD)"
+	},
+	{
+		"id": "0ALWvD2W_MpFFUk9PVA",
+		"kind": "drive#drive",
+		"name": "HK_DRIVE_BOT 2021 (September)"
+	},
+	{
+		"id": "0AA4xbStIPEapUk9PVA",
+		"kind": "drive#drive",
+		"name": "HK_DRIVE_BOT 2021"
+	},
+	{
+		"id": "0AObAaJvB425xUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #1"
+	},
+	{
+		"id": "0ACSsj43tmKZCUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #3"
+	},
+	{
+		"id": "0AES00_4epJAEUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #4"
+	},
+	{
+		"id": "0AMglcNFqjKBYUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #5"
+	},
+	{
+		"id": "0AH1wdp4jb_9HUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #7"
+	},
+	{
+		"id": "0AKa6Dmk0HbTpUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #8"
+	},
+	{
+		"id": "0AFVOzLlfjJdIUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #9"
+	},
+	{
+		"id": "0ADZ60OFcSXsfUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #10"
+	},
+	{
+		"id": "0ADeOG1VrU5vlUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #11"
+	},
+	{
+		"id": "0ALq-bp9teuqZUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #20"
+	},
+	{
+		"id": "0ABBLD3Ohjrh1Uk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #21"
+	},
+	{
+		"id": "0AAxp6E_OLVC0Uk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #2"
+	},
+	{
+		"id": "0AOfvhRnrL_4nUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #27"
+	},
+	{
+		"id": "0AL4f3Xd-aoSnUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #28"
+	},
+	{
+		"id": "0AOX4wwPrr4kqUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #29"
+	},
+	{
+		"id": "0AMlGaf3RvMRnUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #30"
+	},
+	{
+		"id": "0AGM0VjEDDDYwUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #31"
+	},
+	{
+		"id": "0AHAdtdTaoV0KUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #32"
+	},
+	{
+		"id": "0AI1dKnf_MDhxUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #6"
+	},
+	{
+		"id": "0ALrp-EFgD2KGUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #22"
+	},
+	{
+		"id": "0AL4XFhBuAidtUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - #26"
+	},
+	{
+		"id": "0AHF1cvzRjp4uUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM DRIVE - 23 NEW"
+	},
+	{
+		"id": "0AEkcXJth3AA6Uk9PVA",
+		"kind": "drive#drive",
+		"name": "HM RSS - #1"
+	},
+	{
+		"id": "0AK5i87uhDYdjUk9PVA",
+		"kind": "drive#drive",
+		"name": "HM RSS"
+	},
+	{
+		"id": "0APkp9rDV45-eUk9PVA",
+		"kind": "drive#drive",
+		"name": "I Love India"
+	},
+	{
+		"id": "0AOjKtUDOkevwUk9PVA",
+		"kind": "drive#drive",
+		"name": "Khun Torrent Drive 1"
+	},
+	{
+		"id": "0AFMCfjtscuftUk9PVA",
+		"kind": "drive#drive",
+		"name": "Khun Torrent Drive 3"
+	},
+	{
+		"id": "0ANrkZPFUhkNsUk9PVA",
+		"kind": "drive#drive",
+		"name": "KL Torrent TD 1"
+	},
+	{
+		"id": "0AKDL_om8g_YfUk9PVA",
+		"kind": "drive#drive",
+		"name": "KL Torrent TD 2"
+	},
+	{
+		"id": "0ANgoWj5UEcVLUk9PVA",
+		"kind": "drive#drive",
+		"name": "KL Torrent TD 3"
+	},
+	{
+		"id": "0ABsnTrqW2zhvUk9PVA",
+		"kind": "drive#drive",
+		"name": "KL Torrent TD 4"
+	},
+	{
+		"id": "0AK8yIEhMDH8uUk9PVA",
+		"kind": "drive#drive",
+		"name": "KL Torrent TD 5"
+	},
+	{
+		"id": "0AOM4DTyThderUk9PVA",
+		"kind": "drive#drive",
+		"name": "KL Torrent TD 6"
+	},
+	{
+		"id": "0AO4DhleAHUJZUk9PVA",
+		"kind": "drive#drive",
+		"name": "Kristy  -  Education"
+	},
+	{
+		"id": "0ANE_6ZqqNVOJUk9PVA",
+		"kind": "drive#drive",
+		"name": "Kristy Cloud Team Drive [ BOT - 2 ]"
+	},
+	{
+		"id": "0ADATvu7L4OjaUk9PVA",
+		"kind": "drive#drive",
+		"name": "Light Cloud TD1"
+	},
+	{
+		"id": "0AKBDZnyWXWBrUk9PVA",
+		"kind": "drive#drive",
+		"name": "Made Easy Courses"
+	},
+	{
+		"id": "0AD5JAzEz7sAqUk9PVA",
+		"kind": "drive#drive",
+		"name": "Mega Walkers"
+	},
+	{
+		"id": "0ANohSZDmy9WYUk9PVA",
+		"kind": "drive#drive",
+		"name": "mirror bot by mr.x"
+	},
+	{
+		"id": "0APhxfLC5euFHUk9PVA",
+		"kind": "drive#drive",
+		"name": "mirror group"
+	},
+	{
+		"id": "0APoQdhHDF5a1Uk9PVA",
+		"kind": "drive#drive",
+		"name": "MirrorWalkers"
+	},
+	{
+		"id": "0AG_9qM5dtyPyUk9PVA",
+		"kind": "drive#drive",
+		"name": "MoviesCloud TD"
+	},
+	{
+		"id": "0AJgmUw4d52NKUk9PVA",
+		"kind": "drive#drive",
+		"name": "mrxprojects"
+	},
+	{
+		"id": "0AJNwfWrZDsohUk9PVA",
+		"kind": "drive#drive",
+		"name": "NJ Torrent Jason Bourne Power Trip Mod, dont join while he' still there!"
+	},
+	{
+		"id": "0AKCKa2Z6oPAjUk9PVA",
+		"kind": "drive#drive",
+		"name": "OtakuDrive - Mirror Bot [I]"
+	},
+	{
+		"id": "0AETXXT_jark8Uk9PVA",
+		"kind": "drive#drive",
+		"name": "OtakuDrive - Mirror Bot [II]"
+	},
+	{
+		"id": "0AKesVBZ0XLt7Uk9PVA",
+		"kind": "drive#drive",
+		"name": "OtakuDrive - Mirror Bot [III]"
+	},
+	{
+		"id": "0ADEbNJN_pHiKUk9PVA",
+		"kind": "drive#drive",
+		"name": "OtakuDrive - Mirror Bot [IV]"
+	},
+	{
+		"id": "0AEHlRZLDCp8qUk9PVA",
+		"kind": "drive#drive",
+		"name": "Public Drive \u003c= 15 GB"
+	},
+	{
+		"id": "0AKIFJK0WWLmoUk9PVA",
+		"kind": "drive#drive",
+		"name": "Public Drive \u003c= 30 GB"
+	},
+	{
+		"id": "0AFLmMa4jvdVqUk9PVA",
+		"kind": "drive#drive",
+		"name": "Public Drive =\u003e 5GB"
+	},
+	{
+		"id": "0AMj82KUcFjCVUk9PVA",
+		"kind": "drive#drive",
+		"name": "Public Drive Tar"
+	},
+	{
+		"id": "0ALka7sc1jKpqUk9PVA",
+		"kind": "drive#drive",
+		"name": "Public Walkers"
+	},
+	{
+		"id": "0AO12SENLCDqqUk9PVA",
+		"kind": "drive#drive",
+		"name": "Roms"
+	},
+	{
+		"id": "0AN8_zbu_AxwNUk9PVA",
+		"kind": "drive#drive",
+		"name": "Simple Program"
+	},
+	{
+		"id": "0AI59XUGhjlOoUk9PVA",
+		"kind": "drive#drive",
+		"name": "SINNER drive 3"
+	},
+	{
+		"id": "0AASxGjNWdzk5Uk9PVA",
+		"kind": "drive#drive",
+		"name": "SLbots #Bugs"
+	},
+	{
+		"id": "0ALCCpZ9FguCEUk9PVA",
+		"kind": "drive#drive",
+		"name": "Stranger 2017 Seasons"
+	},
+	{
+		"id": "0AEAo47T8e1b_Uk9PVA",
+		"kind": "drive#drive",
+		"name": "TD 1"
+	},
+	{
+		"id": "0AEpIu0O6ia4JUk9PVA",
+		"kind": "drive#drive",
+		"name": "TD-MAXX"
+	},
+	{
+		"id": "0AFZP5hyG3MxjUk9PVA",
+		"kind": "drive#drive",
+		"name": "THE VAULT "
+	},
+	{
+		"id": "0AFM7SrM-orQaUk9PVA",
+		"kind": "drive#drive",
+		"name": "THE VAULT MMXXII"
+	},
+	{
+		"id": "0ALnhaOQBCz1SUk9PVA",
+		"kind": "drive#drive",
+		"name": "The Vault V"
+	},
+	{
+		"id": "0AGDMcPeC6SDmUk9PVA",
+		"kind": "drive#drive",
+		"name": "The Vault VII"
+	},
+	{
+		"id": "0ANhnWF9wH4UfUk9PVA",
+		"kind": "drive#drive",
+		"name": "Tor1"
+	},
+	{
+		"id": "0AFjtftiYV2ifUk9PVA",
+		"kind": "drive#drive",
+		"name": "TORRENT DRIVE 2022"
+	},
+	{
+		"id": "0ACYsMW75QbTSUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive August 2021 "
+	},
+	{
+		"id": "0AB4mD94poZE9Uk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive December 2020"
+	},
+	{
+		"id": "0AOdnCayqsxyeUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive January 2022 #ohhmycron"
+	},
+	{
+		"id": "0ANtFuzBP75BGUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive January 2021"
+	},
+	{
+		"id": "0ABBcXfj2593UUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive June 2021"
+	},
+	{
+		"id": "0AEoaHg-AWRSHUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive March 2021 "
+	},
+	{
+		"id": "0AD94B5I4b4heUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive March 2022 #goat"
+	},
+	{
+		"id": "0AH09H_U1YWOZUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive May 2021"
+	},
+	{
+		"id": "0AAxVLqadx6yYUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive November 2021 "
+	},
+	{
+		"id": "0AKy4mu4Qaf-tUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive October"
+	},
+	{
+		"id": "0AHrwupT-LY4pUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive September 2021"
+	},
+	{
+		"id": "0AG1J3KmiR2dXUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrent Drive September V2"
+	},
+	{
+		"id": "0AHQvAQExavaAUk9PVA",
+		"kind": "drive#drive",
+		"name": "TORRENT_DRIVE 2021"
+	},
+	{
+		"id": "0AO2Zj1UQn9AbUk9PVA",
+		"kind": "drive#drive",
+		"name": "Torrentdrive (August) 2020 V2"
+	},
+	{
+		"id": "0AIDnLQEhARlkUk9PVA",
+		"kind": "drive#drive",
+		"name": "TorrentDrive(July)2020 V2"
+	},
+	{
+		"id": "0ALUEN7rID8H3Uk9PVA",
+		"kind": "drive#drive",
+		"name": "TorrentDrive(march)2020 V2"
+	},
+	{
+		"id": "0ABYzYj3qhe39Uk9PVA",
+		"kind": "drive#drive",
+		"name": "TorrentMir [2]"
+	},
+	{
+		"id": "0ALhYDDoO8Cg3Uk9PVA",
+		"kind": "drive#drive",
+		"name": "TorrtoDrive #2"
+	},
+	{
+		"id": "0AI4OBCE7A4ioUk9PVA",
+		"kind": "drive#drive",
+		"name": "TorrtoDrive #3"
+	},
+	{
+		"id": "0AKzbtp3s54UrUk9PVA",
+		"kind": "drive#drive",
+		"name": "Viper Web"
+	},
+	{
+		"id": "0AOnUMJhovbO7Uk9PVA",
+		"kind": "drive#drive",
+		"name": "Visit GameOfCourses.com"
+	},
+	{
+		"id": "0ANedVk2Bl4wxUk9PVA",
+		"kind": "drive#drive",
+		"name": "Visit www.gameofcourses.com for free courses"
+	},
+	{
+		"id": "0ALKBD0XKkBySUk9PVA",
+		"kind": "drive#drive",
+		"name": "WarLock Torrents - AUG - WarLock - TMD"
+	},
+	{
+		"id": "0AE2wcdN9ijWjUk9PVA",
+		"kind": "drive#drive",
+		"name": "Xtreme Torrent Cloud TD5"
+	},
+	{
+		"id": "0ABmoyjhb_fEZUk9PVA",
+		"kind": "drive#drive",
+		"name": "Xtreme Torrent Cloud TD6"
+	},
+	{
+		"id": "0APJ2RHinwo_bUk9PVA",
+		"kind": "drive#drive",
+		"name": "ZZZZZ.Viper Cloud 1"
+	}
+]
